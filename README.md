@@ -47,9 +47,9 @@ Academic integrity is crucial at 42. We have developed a tool that detects simil
 
 Passing exams at 42 requires practice. We curate exam questions, solutions, and guidelines to help students prepare for evaluations and technical assessments.
 
-### 🎓 Gr4d3M3 Exam Simulator
+### 🎓 Gr4d3M3
 
-The well-known **Gr4d3M3** exam simulator allows students to practice for their exams by replicating the test environment and conditions, helping them prepare effectively for their assessments.
+The well-known **Gr4d3M3** allows students to practice for their exams by replicating the test environment and conditions, helping them prepare effectively for their assessments.
 
 ---
 
